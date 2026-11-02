@@ -1,0 +1,5 @@
+.DS_Store
+*.o
+TongfangKbd.kext/
+键盘背光.app/
+build/
